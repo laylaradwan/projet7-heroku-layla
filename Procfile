@@ -1,3 +1,3 @@
-web: start.bat
+web: bash start.sh
 
 
